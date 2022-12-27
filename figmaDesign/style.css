@@ -1,0 +1,212 @@
+* {
+  font-family: 'Kameron', serif;
+  font-family: 'Kaushan Script', cursive;
+  font-family: 'Poppins', sans-serif;
+  margin: 0;
+  padding: 0;
+  /* overflow-x: hidden; */
+  }
+  .img-profile{
+  border-radius: 100%;
+  width: 30px;
+  height: 30px;
+  }
+  .navbar{
+  position: fixed;
+  }
+  .navbar-brand{
+  color: #ffff;
+  width: 119px;
+  height: 36px;
+  left: 87px;
+  top: 22px;
+  
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 800;
+  font-size: 24px;
+  line-height: 36px;
+  }
+  section{
+  margin-left: 200px;
+  }
+  .home{
+  background: url(download.jpg);
+  background-color: #8E2B2B;
+  background-repeat: no-repeat;
+  /* width: 1210px;*/
+  height: 100vh;
+  background-size: cover;
+  background-position: center;
+  height: 100hv;
+  padding-bottom: 90px;
+  /* left: 230px;
+  top: 0px; */
+  }
+  
+  .home-content2{
+  padding-top: 200px;
+  }
+  .toggle-sidebar {
+  border: none;
+  background-color: #030303;
+  color: white;
+  font-weight: bold;
+  padding: 10px;
+  position: absolute;
+  right: 10px;
+  top: 10px;
+  cursor: pointer;
+  }
+  .sidebar {
+  height: 100vh;
+  width: 200px;
+  list-style: none;
+  background-color: #030303;
+  }
+  .sidebar li a {
+  display: block;
+  padding: 25px;
+  text-decoration: none;
+  color: white;
+  font-weight: bold;
+  text-transform: uppercase;
+  border-bottom: 1px solid silver;
+  transition: background-color 0.5s;
+  }
+  .sidebar li a:hover {
+  background-color: rgba(255, 255, 255, 0.3);
+  }
+  
+  .judul{
+  color: #ffff;
+  }
+  h1{
+    padding-left: 68px;
+    padding-top: 76px;
+    font-size: 24px;
+  }
+  .text{
+  color: #ffff;
+  }
+  h2{
+      /* position: absolute; */
+      padding-top: 68px;
+      padding-left: 100px;
+      width: 387px;
+      height: 284px;
+      left: 369px;
+      top: 371px;
+  
+      font-family: 'Kaushan Script';
+      font-style: normal;
+      font-weight: 400;
+      font-size: 100px;
+      line-height: 145px;
+  }
+  p{
+  /* position: absolute;*/
+  /* width: 389px; */
+  /* height: 117px; */
+  left: 933px;
+  top: 479px;
+  
+  /* padding-top: 2px; */
+  /* padding-left: 703px; */
+  font-family: 'Kameron';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 24px;
+  line-height: 28px;
+  }
+  
+  
+  .about{
+  /* background: url(sks.jpg); */
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  height: 100vh;
+  padding-left: 100px;
+  background: conic-gradient(from 180deg at 50% 50%, rgba(142, 43, 43, 0.785203) -63.75deg, #8E2B2B 43.12deg, rgba(142, 43, 43, 0.473139) 217.5deg, rgba(142, 43, 43, 0.864036) 271.87deg, rgba(142, 43, 43, 0.785203) 296.25deg, #8E2B2B 403.12deg);
+  padding-bottom: 100px;
+  }
+  .img1{
+    /* position: absolute; */
+  
+    /* padding-left: 513px;
+    padding-top: 568px; */
+    width: 200px;
+    /* height: 300px; */
+      left: 304px;
+      top: 81px;
+  
+  }
+  .img2{
+    /* position: absolute; */
+  
+    /* padding-left: 513px;
+    padding-top: 568px; */
+    width: 200px;
+    /* height: 300px; */
+      left: 304px;
+      top: 81px;
+  }
+  h4{
+  color: #ffff;
+  
+  /* position: absolute; */
+  /* padding-right: 192px;
+  padding-bottom: 521px; */
+  width: 371px;
+  height: 254px;
+  left: 877px;
+  top: 149px;
+  
+  font-family: 'Kameron';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 20px;
+  line-height: 25px;
+  }
+  h5{
+    /* position: absolute; */
+    padding-top: 200px;
+  width: 371px;
+  height: 354px;
+  left: 376px;
+  top: 575px;
+  
+  font-family: 'Kameron';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 20px;
+  line-height: 25px;
+  }
+  .portofolio{
+  background: conic-gradient(from 180deg at 50% 50%, rgba(142, 43, 43, 0.785203) -63.75deg, #8E2B2B 43.12deg, rgba(142, 43, 43, 0.473139) 217.5deg, rgba(142, 43, 43, 0.864036) 271.87deg, rgba(142, 43, 43, 0.785203) 296.25deg, #8E2B2B 403.12deg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  height: 100vh;
+  }
+  .ct1{
+  height: 180px;
+  /* padding-left: 100px; */
+  }
+  .ct2{
+  height: 180px;
+  /* padding-left: 100px; */
+  }
+  .ct3{
+  height: 180px;
+  /* padding-left: 100px; */
+  }
+  .ct4{
+  height: 180px;
+  /* padding-left: 100px; */
+  }
+  .ct5{
+  height: 180px;
+  /* padding-left: 100px; */
+  }
